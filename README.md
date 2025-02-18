@@ -1,4 +1,4 @@
 # iphone-uml
 
-![Minha Imagem](iphone-uml/src/imagens/ClasseUML.png)
+![Minha Imagem](/src/imagens/ClasseUML.png)
 
